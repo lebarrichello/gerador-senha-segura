@@ -12,7 +12,9 @@
   "author": "Letícia Barrichello",
   "license": "ISC",
   "dependencies": {
+    "clipboard-copy": "^4.0.1",
     "nanoid": "^5.0.3",
+    "v-clipboard": "^3.0.0-next.1",
     "vite": "^4.5.0"
   },
   "type": "module",
