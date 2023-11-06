@@ -2,8 +2,8 @@
 
 Projeto desenvolvido como parte dos estudos no módulo de Front-End do curso de desenvolvimento web da Trybe
 
-![mobile](/Grava%C3%A7%C3%A3o%20de%20tela%20de%2006-11-2023%2016%3A37%3A11.webm
-)
+[Gravação de tela de 06-11-2023 16:37:11.webm](https://github.com/lebarrichello/gerador-senha-segura/assets/42211040/87dbf9bc-9d2b-4bb8-961f-513c52677366)
+
 <p>Acesse o projeto em produção <a href="https://lebarrichello.github.io/gerador-senha-segura/" target="_blank">clicando aqui</a></p>
 
 ## 🎯 Objetivo
