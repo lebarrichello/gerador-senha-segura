@@ -4,9 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open",
+    "lint": "eslint ./src"
   },
   "keywords": [],
   "author": "Letícia Barrichello",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^5.0.3",
+    "vite": "^4.5.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.53.0"
+  }
 }
