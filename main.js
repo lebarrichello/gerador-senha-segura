@@ -1,6 +1,5 @@
 import { nanoid } from 'nanoid';
 import copy from 'clipboard-copy';
-import '../src/style.css';
 
 const passwordBtnEl = document.querySelector('button');
 const displayPasswordEl = document.querySelector('h2');
